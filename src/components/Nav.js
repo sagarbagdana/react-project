@@ -14,6 +14,7 @@ const Nav = () => {
                 <li><Link to="/beauty">Beauty & Health</Link></li>
                 <li><Link to="/signup">Sign Up</Link></li>
             </ul>
+            
         </div>
     )
 }
